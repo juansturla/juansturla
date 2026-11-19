@@ -13,6 +13,7 @@ Open to new opportunities, especially in videogames.
 ## Selected work
 
 - **[Compara Precios Rosario](https://juansturla.github.io/compara-precios/)**: a PWA and Android app that scans or searches supermarket products and compares their prices across Rosario, fed by a nightly scraper.
+- **[Exploding Elves](https://github.com/juansturla/exploding-elves)**: a Unity DOTS (ECS) simulation built for mobile, where elves of four colors multiply when they bump into their own color and explode when they meet another one.
 - **[Steam Deck alarm plugin](https://github.com/juansturla/decky-alarm-plugin)**: a [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin to set alarms that show up as toasts, even while you play.
 - **Games on itch.io:** [Isokitchen](https://tiluchi.itch.io/isokitchen), [The Old Bard](https://tiluchi.itch.io/the-old-bard), [Dodghell](https://tiluchi.itch.io/dodghell) (Ludum Dare 42), and more game jam entries.
 - **[Room temperature monitor](https://github.com/juansturla/Particle_RoomTemperature)**: a .NET MAUI IoT app that reads room temperature and humidity from a Particle Photon board.
