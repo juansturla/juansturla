@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Juan 👋
 
-<!--
-**juansturla/juansturla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I build whatever the project needs.**
 
-Here are some ideas to get you started:
+Software engineer based in Rosario, Argentina, most recently Staff Software Engineer at Fortis Games. For more than ten years I have built games, mobile apps, backend and cloud services, and software that talks to electronic devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to new opportunities, especially in videogames.
+
+**Website:** [juansturla.github.io](https://juansturla.github.io/?ref=github-readme) · **LinkedIn:** [juan-sturla](https://www.linkedin.com/in/juan-sturla/?ref=github) · **Games:** [tiluchi.itch.io](https://tiluchi.itch.io/) · **Blog:** [.NET MAUI blog](https://mauichicken.wordpress.com/)
+
+`Unity / C#` `.NET` `TypeScript` `Backend & LiveOps` `Cloud` `IoT`
+
+## Selected work
+
+- **[Compara Precios Rosario](https://juansturla.github.io/compara-precios/)**: a PWA and Android app that scans or searches supermarket products and compares their prices across Rosario, fed by a nightly scraper.
+- **[Steam Deck alarm plugin](https://github.com/juansturla/decky-alarm-plugin)**: a [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin to set alarms that show up as toasts, even while you play.
+- **Games on itch.io:** [Isokitchen](https://tiluchi.itch.io/isokitchen), [The Old Bard](https://tiluchi.itch.io/the-old-bard), [Dodghell](https://tiluchi.itch.io/dodghell) (Ludum Dare 42), and more game jam entries.
+- **[Room temperature monitor](https://github.com/juansturla/Particle_RoomTemperature)**: a .NET MAUI IoT app that reads room temperature and humidity from a Particle Photon board.
+
+## Open source
+
+Samples for the [.NET MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui/pulls?q=author%3Ajuansturla+is%3Amerged), merged upstream:
+
+- Color converters samples
+- `ItemTappedEventArgs` converter sample
+- `ListIsNullOrEmpty`, `StringToList` and `ListToString` converter samples
+
+I also gave a talk at MonkeyConf 2021 on writing platform-specific code in .NET MAUI ([code](https://github.com/juansturla/MonkeyConf_CodeSpecifics)).
