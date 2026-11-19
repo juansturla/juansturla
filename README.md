@@ -6,7 +6,7 @@ Software engineer based in Rosario, Argentina, most recently Staff Software Engi
 
 Open to new opportunities, especially in videogames.
 
-**Website:** [juansturla.github.io](https://juansturla.github.io/?ref=github-readme) · **LinkedIn:** [juan-sturla](https://www.linkedin.com/in/juan-sturla/?ref=github) · **Games:** [tiluchi.itch.io](https://tiluchi.itch.io/) · **Blog:** [.NET MAUI blog](https://mauichicken.wordpress.com/)
+**Website:** [juansturla.github.io](https://juansturla.github.io/?ref=github-readme) · **LinkedIn:** [juan-sturla](https://www.linkedin.com/in/juan-sturla/) · **Games:** [tiluchi.itch.io](https://tiluchi.itch.io/) · **Blog:** [.NET MAUI blog](https://mauichicken.wordpress.com/)
 
 `Unity / C#` `.NET` `TypeScript` `Backend & LiveOps` `Cloud` `IoT`
 
